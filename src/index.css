@@ -3,17 +3,17 @@ body {
   padding: 0;
   font-family: sans-serif;
   text-align: center;
-  background-color: black;
+  background-color: gray;
 }
 
 h1 {
   font-size: 4rem;
-  color: white;
+  color: black;
 }
 
 .value {
   font-size: 6rem;
-  color: white;
+  color: black;
 }
 
 button {
